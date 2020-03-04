@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function Navbar(props) {
+Navbar(props) => {
   return (
     <nav class="main-navigation">
       <ul>
